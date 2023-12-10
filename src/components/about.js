@@ -13,7 +13,7 @@ const About = () => {
       </p>
 
       <div className="row row-cols-1 row-cols-sm-2 mt-4 mb-4">
-        <div className="col col-12 col-sm-12 col-md-5 " data-aos="fade-up">
+        <div className="col col-12 col-sm-12 col-md-5 mb-4" data-aos="fade-up">
           <img src={Mohamed_Adam} style={{width:"300px"}} alt="" className="img img-fluid  rounded shadow mx-auto d-block" />
         </div>
         <div className="col col-12 col-sm-12 col-md-7">
